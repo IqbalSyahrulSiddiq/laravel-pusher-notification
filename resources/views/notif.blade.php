@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-  <title>Laravel 8 Pusher Notification Example Tutorial - XpertPhp</title>
+  <title>Laravel 8 Pusher Notification</title>
   <h1>Laravel 8 Pusher Notification Example Tutorial</h1>
   <script src="https://js.pusher.com/4.1/pusher.min.js"></script>
   <script>
